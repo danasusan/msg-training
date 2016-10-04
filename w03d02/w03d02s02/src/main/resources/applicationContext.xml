@@ -24,6 +24,13 @@
                 </bean>
             </list>
         </property>
+
+        <property name="theOtherProductRepository">
+            <map>
+                <entry key="1" value="foo_1"/>
+                <entry key="2" value="foo_2"/>
+            </map>
+        </property>
     </bean>
 
     <context:property-placeholder location="application.properties"/>

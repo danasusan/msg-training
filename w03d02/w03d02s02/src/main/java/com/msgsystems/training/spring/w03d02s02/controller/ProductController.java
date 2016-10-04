@@ -3,6 +3,7 @@ package com.msgsystems.training.spring.w03d02s02.controller;
 import com.msgsystems.training.spring.w03d02s02.model.Product;
 import com.msgsystems.training.spring.w03d02s02.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
 
 @Controller
