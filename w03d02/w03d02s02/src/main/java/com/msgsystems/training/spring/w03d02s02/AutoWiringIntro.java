@@ -17,6 +17,7 @@ public class AutoWiringIntro {
         productRepository.displayTheBooleanValue();
         productRepository.displayTheInt();
         */
+        System.out.println("verify git");
         productRepository.displayTheProducts();
     }
 }
