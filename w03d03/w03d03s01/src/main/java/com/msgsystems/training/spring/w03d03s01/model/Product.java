@@ -1,4 +1,4 @@
-package com.msgsystems.training.spring.w03d03s02.model;
+package com.msgsystems.training.spring.w03d03s01.model;
 
 import java.io.Serializable;
 

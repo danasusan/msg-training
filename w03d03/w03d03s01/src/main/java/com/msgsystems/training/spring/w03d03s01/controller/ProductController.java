@@ -1,7 +1,7 @@
-package com.msgsystems.training.spring.w03d03s02.controller;
+package com.msgsystems.training.spring.w03d03s01.controller;
 
-import com.msgsystems.training.spring.w03d03s02.model.Product;
-import com.msgsystems.training.spring.w03d03s02.service.ProductService;
+import com.msgsystems.training.spring.w03d03s01.model.Product;
+import com.msgsystems.training.spring.w03d03s01.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

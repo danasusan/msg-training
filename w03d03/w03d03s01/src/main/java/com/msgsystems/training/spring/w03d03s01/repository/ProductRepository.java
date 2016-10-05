@@ -1,6 +1,6 @@
-package com.msgsystems.training.spring.w03d03s02.repository;
+package com.msgsystems.training.spring.w03d03s01.repository;
 
-import com.msgsystems.training.spring.w03d03s02.model.Product;
+import com.msgsystems.training.spring.w03d03s01.model.Product;
 import org.springframework.stereotype.Repository;
 
 @Repository

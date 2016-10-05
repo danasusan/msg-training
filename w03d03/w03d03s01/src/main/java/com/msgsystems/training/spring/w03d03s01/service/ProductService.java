@@ -1,7 +1,7 @@
-package com.msgsystems.training.spring.w03d03s02.service;
+package com.msgsystems.training.spring.w03d03s01.service;
 
-import com.msgsystems.training.spring.w03d03s02.model.Product;
-import com.msgsystems.training.spring.w03d03s02.repository.ProductRepository;
+import com.msgsystems.training.spring.w03d03s01.model.Product;
+import com.msgsystems.training.spring.w03d03s01.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
